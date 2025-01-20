@@ -1,6 +1,6 @@
 # 👋🏻 Alexis Pincowscy
 
-Desenvolvedor FullStack em constante evolução, apaixonado pela tecnologia e gamer nas horas vagas.
+Desenvolvedor em constante evolução, apaixonado pela tecnologia e gamer nas horas vagas.
 
 🚀Meu lema: SEMPRE PRONTO PARA NOVOS DESAFIOS!!🚀
 
