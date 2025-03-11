@@ -24,14 +24,15 @@ Desenvolvedor em constante evolução, apaixonado pela tecnologia e gamer nas ho
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexispincowscy&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexispincowscy&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Projetos
 
 [![Repo Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexispincowscy/pokedex)
 
-[![Repo Python](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Python)
+[![Repo Python](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Python)
 
-[![Repo JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/JavaScript)
+[![Repo JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/JavaScript)
 
 
