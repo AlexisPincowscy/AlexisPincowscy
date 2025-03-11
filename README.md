@@ -29,7 +29,7 @@ Desenvolvedor em constante evolução, apaixonado pela tecnologia e gamer nas ho
 
 ### Meus Principais Projetos
 
-[![Repo Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexispincowscy/pokedex)
+[![Repo Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=PokeDex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexispincowscy/pokedex)
 
 [![Repo Python](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Python)
 
