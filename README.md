@@ -30,9 +30,7 @@ Desenvolvedor FullStack em constante evolução, apaixonado pela tecnologia e ga
 ### Meus Principais Desafios de Projeto DIO
 
 [![Repo PokeDex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Pokedex)
-
 [![Repo Aulas CSS-Avançado](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=CSS-avancado&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/CSS-avancado)
-
 [![Repo Aulas JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Javascript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/JavaScript)
-
 [![Repo Aulas Python](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Python)
+[![Repo Aulas TypeScript](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=TypeScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/TypeScript)
