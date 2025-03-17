@@ -27,7 +27,7 @@ Desenvolvedor FullStack em constante evolução, apaixonado pela tecnologia e ga
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexispincowscy&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
+### Meus Principais Projetos
 
 [![Repo PokeDex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Pokedex)
 [![Repo Aulas CSS-Avançado](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=CSS-avancado&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/CSS-avancado)
