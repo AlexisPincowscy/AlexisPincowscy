@@ -27,7 +27,7 @@ Desenvolvedor e Analista de dados Jr | Python | Excel | HTML | CSS | JavaScript 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexispincowscy&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Projetos
-
+[![Repo Análise de Dados](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Analise-de-Dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Analise-de-Dados)
 [![Repo PokeDex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Pokedex)
 [![Repo Aulas CSS-Avançado](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=CSS-avancado&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/CSS-avancado)
 [![Repo Aulas Python](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Python)
