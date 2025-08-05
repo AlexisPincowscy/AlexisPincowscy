@@ -1,6 +1,18 @@
 # 👋🏻 Alexis Pincowscy
 
-Desenvolvedor e Analista de dados Jr | Python | Excel | HTML | CSS | JavaScript | TypeScript
+Desenvolvedor full-stack
+
+Tenho experiência com:
+
+- Desenvolvimento Web (HTML/CSS/JS)
+- TypeScript
+- Node
+- API REST
+- Python para analytics
+- Metodologias Ágeis
+- IA Generativa
+- SQL e NoSQL
+
 
 🚀Meu lema: SEMPRE PRONTO PARA NOVOS DESAFIOS!!🚀
 
