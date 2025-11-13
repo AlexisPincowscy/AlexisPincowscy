@@ -39,6 +39,7 @@ Tenho experiência com:
 
 ### Meus Principais Projetos
 [![Repo Análise de Dados](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Analise-de-Dados&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Analise-de-Dados)
+[![Python POO](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=POO-Python-Hotel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/POO-Python-Hotel)
 [![Repo PokeDex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Pokedex)
 [![Repo PokeDex](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/Pokedex)
 [![CRUD-APP](https://github-readme-stats.vercel.app/api/pin/?username=alexispincowscy&repo=crud-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AlexisPincowscy/crud-app)
