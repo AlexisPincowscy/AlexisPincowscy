@@ -81,12 +81,7 @@ Atuar como **Desenvolvedor Full-Stack (Angular + Java/Spring)**, entregando:
 # 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexisPincowscy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisPincowscy&layout=compact&langs_count=8&theme=dark"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com/?user=AlexisPincowscy&theme=dark"/>
 </p>
 
 <p align="center">
