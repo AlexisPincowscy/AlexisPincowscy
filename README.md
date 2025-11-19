@@ -1,6 +1,5 @@
 # 👋🏻 Alexis Pincowscy
 
-<h1 align="center">Alexis Pincowscy</h1>
 <h3 align="center">Desenvolvedor Full-Stack | Angular • TypeScript • Java • Spring Boot</h3>
 
 <p align="center">
@@ -13,10 +12,6 @@
   <a href="https://github.com/AlexisPincowscy">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Angular+%2B+Java%2FSpring+Boot;Clean+Code+%7C+REST+APIs+%7C+Aplicações+Escaláveis;QA+T%C3%A9cnico+em+IA+como+skill+complementar" alt="Typing SVG" />
 </p>
 
 ---
