@@ -76,9 +76,6 @@ Atuar como **Desenvolvedor Full-Stack (Angular + Java/Spring)**, entregando:
 - Componentes modulares e de alta qualidade  
 - Boas práticas e versionamento  
 
-tats.vercel.app/api/top-langs/?username=AlexisPincowscy&layout=compact&langs_count=8&theme=dark"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexisPincowscy&color=blue&style=flat-square" />
 </p>
