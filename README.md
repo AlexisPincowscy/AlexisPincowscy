@@ -76,16 +76,10 @@ Atuar como **Desenvolvedor Full-Stack (Angular + Java/Spring)**, entregando:
 - Componentes modulares e de alta qualidade  
 - Boas práticas e versionamento  
 
----
-
-# 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisPincowscy&layout=compact&langs_count=8&theme=dark"/>
+tats.vercel.app/api/top-langs/?username=AlexisPincowscy&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexisPincowscy&color=blue&style=flat-square" />
 </p>
 
----
