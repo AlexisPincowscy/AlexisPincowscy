@@ -55,11 +55,15 @@ Meu foco principal é **engenharia full-stack**, criando soluções robustas e d
 
 ## 📌 Projetos em Destaque
 
-### 🔹 **TaskFlow**  
-Aplicação Angular de gestão de tarefas com arquitetura modular, rotas, estados e componentes reutilizáveis.
 
 ### 🔹 **CRUD-App**  
 Aplicação full-stack integrando Angular com backend Java/Spring Boot.
+
+### 🔹 **PlayStore**
+Aplicação de gerenciamento de uma loja digital desenvolvida utilizando Angular. Inclui funcionalidades como autenticação, gestão de produtos e finalização de compras.
+
+### 🔹 **TaskFlow**  
+Aplicação Angular de gestão de tarefas com arquitetura modular, rotas, estados e componentes reutilizáveis.
 
 ### 🔹 **Python Automations**  
 Ferramentas de automação e análise de dados com datasets acima de **800 mil linhas**, incluindo pipelines de limpeza e normalização.
