@@ -80,6 +80,11 @@ Atuar como **Desenvolvedor Full-Stack (Angular + Java/Spring)**, entregando:
 - Componentes modulares e de alta qualidade  
 - Boas práticas e versionamento  
 
+
+### 📊 Volume de Commits
+
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexisPincowscy&bg_color=ffffff&color=000000&line=0066ff&point=0033ff&area=true&hide_border=true)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexisPincowscy&color=blue&style=flat-square" />
 </p>
