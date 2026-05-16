@@ -1,6 +1,6 @@
 # 👋🏻 Alexis Pincowscy
 
-<h3 align="center">Desenvolvedor Full-Stack | Java • Spring Boot • Angular • Node.js</h3>
+<h3 align="center">Full-Stack Developer | Java • Spring Boot • Angular • Node.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexispincowscy">
@@ -16,22 +16,22 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Desenvolvedor **Full-Stack** com experiência no desenvolvimento de sistemas corporativos de alta disponibilidade e integrações complexas. Atualmente, atuo na evolução e sustentação de plataformas críticas de gestão esportiva e administrativa para o **Comitê Paralímpico Brasileiro (CPB)** pela Beltis Tecnologia.
+Full-Stack Developer with experience in developing high-availability enterprise systems and complex integrations.
 
-Focado na entrega de software robusto ponta a ponta:
-- **Back-end:** Engenharia de APIs escaláveis com **Java (8 e 17+) + Spring Boot**, segurança com **Spring Security** e persistência de dados otimizada com **JPA/Hibernate**.
-- **Front-end:** Criação de SPAs dinâmicas com **Angular**, TypeScript e arquitetura modular, utilizando gerenciamento de estado e reatividade com **RxJS** e **Signals**.
-- **Ecossistema Node.js:** Desenvolvimento de microserviços e APIs assíncronas utilizando Node.js, Express e NestJS.
+Focused on delivering robust end-to-end software solutions:
+- **Backend:** Engineering scalable APIs with **Java (8 & 17+) + Spring Boot**, ensuring security with **Spring Security**, and optimizing data persistence with **Spring Data JPA/Hibernate**.
+- **Frontend:** Building dynamic SPAs using **Angular**, TypeScript, and modular architecture, while managing state and reactivity with **RxJS** and **Signals**.
+- **Node.js Ecosystem:** Developing microservices and asynchronous APIs utilizing Node.js, Express, and NestJS.
 
-Possuo sólida bagagem em ambientes ágeis (Scrum), qualidade de código (**Clean Code & SOLID**), modelagem de dados em banco relacional (**SQL Server**) e esteiras automatizadas de deploy (**Docker / CI-CD**). Minha experiência anterior como QA Técnico para modelos de IA generativa expandiu minha visão analítica sobre precisão lógica e arquitetura de software.
+I have a solid background in Agile environments (Scrum), software quality (**Clean Code & SOLID**), relational database modeling (**SQL Server**), and automated deployment pipelines (**Docker / CI-CD**). My previous experience as a Technical QA for generative AI models enhanced my analytical approach to logical accuracy and software architecture.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack & Tools
 
-### **Linguagens e Frameworks**
+### **Languages and Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -41,7 +41,7 @@ Possuo sólida bagagem em ambientes ágeis (Scrum), qualidade de código (**Clea
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### **Persistência, DevOps e Ferramentas**
+### **Persistence, DevOps, and Tools**
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -52,18 +52,17 @@ Possuo sólida bagagem em ambientes ágeis (Scrum), qualidade de código (**Clea
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Featured Project
 
-### 🔹 **CRUD-App (Sistema de Gerenciamento Full-Stack)** Aplicação corporativa robusta que integra uma API desenvolvida em **Java/Spring Boot** a uma interface SPA em **Angular**. 
-- **Back-end:** Implementação de arquitetura em camadas (Controller, Service, Repository), isolamento de dados com DTOs, tratamento global de exceções, segurança de endpoints e testes unitários.
-- **Front-end:** Interface construída de forma modular, com validações síncronas/assíncronas de formulários (Reactive Forms), serviços injetáveis para consumo HTTP e gerenciamento de fluxo de dados reativo.
+### 🔹 **CRUD-App (Full-Stack Management System)** An enterprise-grade application integrating a **Java/Spring Boot** backend API with an **Angular** SPA frontend.
+- **Backend:** Implementation of a layered architecture (Controller, Service, Repository), data isolation using DTOs, global exception handling, endpoint security, and unit testing.
+- **Frontend:** Built with a modular structure, featuring synchronous/asynchronous form validations (Reactive Forms), injectable services for HTTP consumption, and reactive data stream management.
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Professional Objective
 
-Consolidar entregas de alto impacto como **Desenvolvedor Full-Stack**, aplicando padrões de engenharia modernos para criar aplicações resilientes, seguras e focadas na melhor experiência para o negócio e para o usuário final.
-
+To deliver high-impact results as a **Full-Stack Developer** by applying modern engineering patterns
 ### 📊 Volume de Commits
 
 
