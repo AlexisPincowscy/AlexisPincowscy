@@ -1,6 +1,6 @@
 # 👋🏻 Alexis Pincowscy
 
-<h3 align="center">Desenvolvedor Full-Stack | Angular • TypeScript • Java • Spring Boot</h3>
+<h3 align="center">Desenvolvedor Full-Stack | Java • Spring Boot • Angular • Node.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexispincowscy">
@@ -18,68 +18,51 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor **full-stack** com foco em:
+Desenvolvedor **Full-Stack** com experiência no desenvolvimento de sistemas corporativos de alta disponibilidade e integrações complexas. Atualmente, atuo na evolução e sustentação de plataformas críticas de gestão esportiva e administrativa para o **Comitê Paralímpico Brasileiro (CPB)** pela Beltis Tecnologia.
 
-- **Front-end:** Angular + TypeScript  
-- **Back-end:** Java + Spring Boot  
+Focado na entrega de software robusto ponta a ponta:
+- **Back-end:** Engenharia de APIs escaláveis com **Java (8 e 17+) + Spring Boot**, segurança com **Spring Security** e persistência de dados otimizada com **JPA/Hibernate**.
+- **Front-end:** Criação de SPAs dinâmicas com **Angular**, TypeScript e arquitetura modular, utilizando gerenciamento de estado e reatividade com **RxJS** e **Signals**.
+- **Ecossistema Node.js:** Desenvolvimento de microserviços e APIs assíncronas utilizando Node.js, Express e NestJS.
 
-Construo aplicações web completas, escaláveis e bem estruturadas, com APIs REST, arquitetura limpa, módulos bem organizados e integração eficiente entre camadas.
-
-Atuo também como **QA Técnico em modelos de IA**, validando lógica, fluxos e código gerado por LLMs (Java, Python, estruturas de dados). Essa experiência complementa minha atuação em engenharia, ampliando minha visão sobre qualidade, precisão e boas práticas.
-
-Meu foco principal é **engenharia full-stack**, criando soluções robustas e de alta qualidade.
+Possuo sólida bagagem em ambientes ágeis (Scrum), qualidade de código (**Clean Code & SOLID**), modelagem de dados em banco relacional (**SQL Server**) e esteiras automatizadas de deploy (**Docker / CI-CD**). Minha experiência anterior como QA Técnico para modelos de IA generativa expandiu minha visão analítica sobre precisão lógica e arquitetura de software.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 ### **Linguagens e Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### **Ferramentas e Ambientes**
+### **Persistência, DevOps e Ferramentas**
 <p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-0070C0?style=for-the-badge&logo=scrumAlliance&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projeto em Destaque
 
-
-### 🔹 **CRUD-App**  
-Aplicação full-stack integrando Angular com backend Java/Spring Boot.
-
-### 🔹 **PlayStore**
-Aplicação de gerenciamento de uma loja digital desenvolvida utilizando Angular. Inclui funcionalidades como autenticação, gestão de produtos e finalização de compras.
-
-### 🔹 **TaskFlow**  
-Aplicação Angular de gestão de tarefas com arquitetura modular, rotas, estados e componentes reutilizáveis.
-
-### 🔹 **Python Automations**  
-Ferramentas de automação e análise de dados com datasets acima de **800 mil linhas**, incluindo pipelines de limpeza e normalização.
+### 🔹 **CRUD-App (Sistema de Gerenciamento Full-Stack)** Aplicação corporativa robusta que integra uma API desenvolvida em **Java/Spring Boot** a uma interface SPA em **Angular**. 
+- **Back-end:** Implementação de arquitetura em camadas (Controller, Service, Repository), isolamento de dados com DTOs, tratamento global de exceções, segurança de endpoints e testes unitários.
+- **Front-end:** Interface construída de forma modular, com validações síncronas/assíncronas de formulários (Reactive Forms), serviços injetáveis para consumo HTTP e gerenciamento de fluxo de dados reativo.
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Full-Stack (Angular + Java/Spring)**, entregando:
-
-- Desenvolvimento ponta a ponta  
-- Arquitetura limpa  
-- APIs REST escaláveis  
-- Componentes modulares e de alta qualidade  
-- Boas práticas e versionamento  
-
+Consolidar entregas de alto impacto como **Desenvolvedor Full-Stack**, aplicando padrões de engenharia modernos para criar aplicações resilientes, seguras e focadas na melhor experiência para o negócio e para o usuário final.
 
 ### 📊 Volume de Commits
 
