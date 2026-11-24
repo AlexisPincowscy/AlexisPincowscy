@@ -14,13 +14,17 @@
   </a>
 </p>
 
-## About
+## About Me
 
-I build and maintain enterprise web applications, backend APIs, and system integrations. My day-to-day work spans Java and Spring on the backend and Angular and TypeScript on the frontend.
+I'm a Software Engineer building enterprise applications with Java 17, Spring Boot, Angular, and relational databases. My work includes REST and SOAP integrations, authentication, database migrations, production troubleshooting, automated testing, and CI/CD. On the frontend, I contribute to accessible Angular design systems using Nx and Storybook.
 
-- **Backend and integrations** — REST and SOAP APIs, Spring Security, Spring Data JPA, Hibernate, Kafka, and RabbitMQ.
-- **Frontend and delivery** — Angular, TypeScript, RxJS, Oracle, SQL Server, Docker, and Jenkins.
-- **AI Engineering** — I bring experience evaluating generative AI outputs and am developing my skills in designing and evaluating AI-enabled applications.
+I also have professional experience in generative AI quality assurance, code evaluation, and training data curation. I use Claude Code and spec-driven development in my engineering workflow.
+
+Based in Brazil · C1-certified English · Open to international remote opportunities.
+
+### Current focus
+
+Backend engineering, software architecture, system design, AWS, and LLM application architecture, including RAG and AI agents.
 
 ## Selected projects
 
@@ -32,6 +36,14 @@ I build and maintain enterprise web applications, backend APIs, and system integ
 | [HomeCoffe](https://github.com/AlexisPincowscy/homecoffe) | Flutter and Supabase app for discovering and reviewing cafés with work-friendly amenities. |
 
 ## Tech stack
+
+| Area | Technologies and practices |
+| --- | --- |
+| Backend | Java 17, Spring Boot, Spring Security, Hibernate, JPA, REST, SOAP, Kafka, RabbitMQ |
+| Frontend | Angular, TypeScript, RxJS, Nx, Storybook, Angular Material |
+| Data and delivery | SQL Server, Oracle, Git, Jenkins, GitHub Actions, Maven, Docker |
+| Testing and quality | JUnit 5, Mockito, Playwright, Jest, SonarQube, WCAG |
+| AI and engineering workflows | Claude Code, spec-driven development, generative AI quality assurance |
 
 ### **Languages and Frameworks**
 <p>
@@ -51,6 +63,10 @@ I build and maintain enterprise web applications, backend APIs, and system integ
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-0070C0?style=for-the-badge&logo=scrumAlliance&logoColor=white"/>
 </p>
+
+## GitHub activity
+
+[View my GitHub contribution history](https://github.com/AlexisPincowscy?tab=overview#contribution-activity)
 
 ## Profile views
 
