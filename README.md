@@ -1,6 +1,6 @@
-# 👋🏻 Alexis Pincowscy
+# Alexis Pincowscy
 
-<h3 align="center">Full-Stack Developer | Java • Spring Boot • Angular • Node.js</h3>
+**Software Engineer | Java, Spring Boot & Angular**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexispincowscy">
@@ -14,22 +14,24 @@
   </a>
 </p>
 
----
+## About
 
-## 🚀 About Me
+I build and maintain enterprise web applications, backend APIs, and system integrations. My day-to-day work spans Java and Spring on the backend and Angular and TypeScript on the frontend.
 
-Full-Stack Developer with experience in developing high-availability enterprise systems and complex integrations.
+- **Backend and integrations** — REST and SOAP APIs, Spring Security, Spring Data JPA, Hibernate, Kafka, and RabbitMQ.
+- **Frontend and delivery** — Angular, TypeScript, RxJS, Oracle, SQL Server, Docker, and Jenkins.
+- **AI Engineering** — I bring experience evaluating generative AI outputs and am developing my skills in designing and evaluating AI-enabled applications.
 
-Focused on delivering robust end-to-end software solutions:
-- **Backend:** Engineering scalable APIs with **Java (8 & 17+) + Spring Boot**, ensuring security with **Spring Security**, and optimizing data persistence with **Spring Data JPA/Hibernate**.
-- **Frontend:** Building dynamic SPAs using **Angular**, TypeScript, and modular architecture, while managing state and reactivity with **RxJS** and **Signals**.
-- **Node.js Ecosystem:** Developing microservices and asynchronous APIs utilizing Node.js, Express, and NestJS.
+## Selected projects
 
-I have a solid background in Agile environments (Scrum), software quality (**Clean Code & SOLID**), relational database modeling (**SQL Server**), and automated deployment pipelines (**Docker / CI-CD**). My previous experience as a Technical QA for generative AI models enhanced my analytical approach to logical accuracy and software architecture.
+| Project | What it demonstrates |
+| --- | --- |
+| [Mont Executive Dashboard](https://github.com/AlexisPincowscy/painelMont) | Analytics API and KPI modeling with FastAPI, Django ORM, and React. |
+| [Clinic Appointment Scheduler](https://github.com/AlexisPincowscy/clinica-agendamento) | Full-stack scheduling application with a Node.js and Express REST API, JSON persistence, and a JavaScript frontend. |
+| [Angular User Management](https://github.com/AlexisPincowscy/crud-app) | Angular 20, reactive forms, Signals, browser storage, and GitHub Pages deployment. |
+| [HomeCoffe](https://github.com/AlexisPincowscy/homecoffe) | Flutter and Supabase app for discovering and reviewing cafés with work-friendly amenities. |
 
----
-
-## 🛠️ Tech Stack & Tools
+## Tech stack
 
 ### **Languages and Frameworks**
 <p>
@@ -50,23 +52,8 @@ I have a solid background in Agile environments (Scrum), software quality (**Cle
   <img src="https://img.shields.io/badge/Scrum-0070C0?style=for-the-badge&logo=scrumAlliance&logoColor=white"/>
 </p>
 
----
-
-## 📌 Featured Project
-
-### 🔹 **CRUD-App (Full-Stack Management System)** An enterprise-grade application integrating a **Java/Spring Boot** backend API with an **Angular** SPA frontend.
-- **Backend:** Implementation of a layered architecture (Controller, Service, Repository), data isolation using DTOs, global exception handling, endpoint security, and unit testing.
-- **Frontend:** Built with a modular structure, featuring synchronous/asynchronous form validations (Reactive Forms), injectable services for HTTP consumption, and reactive data stream management.
-
----
-
-## 🎯 Professional Objective
-
-To deliver high-impact results as a **Full-Stack Developer** by applying modern engineering patterns
-### 📊 Volume de Commits
-
+## Profile views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexisPincowscy&color=blue&style=flat-square" />
 </p>
-
